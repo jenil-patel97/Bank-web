@@ -33,8 +33,8 @@ const App = () => {
           <Stats />
           <Business />
           <Billing />
-          {/* <CardDeal />
-          <Testimonials />
+          <CardDeal />
+          {/* <Testimonials />
           <Clients />
           <CTA />
           <Footer /> */}
