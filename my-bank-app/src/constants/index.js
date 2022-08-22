@@ -1,10 +1,14 @@
-// import {facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox } from "../assets";
+// import {facebook, instagram, linkedin, twitter} from "../assets";
 import send from '../assets/Send.svg'
 import shield from '../assets/Shield.svg'
 import star from '../assets/Star.svg'
 import people01 from '../assets/people01.png'
 import people02 from '../assets/people02.png'
 import people03 from '../assets/people03.png'
+import airbnb from '../assets/airbnb.png'
+import binance from '../assets/binance.png'
+import coinbase from '../assets/coinbase.png'
+import dropbox from '../assets/dropbox.png'
 
 export const navLinks = [
   {
@@ -184,21 +188,21 @@ export const stats = [
 //   },
 // ];
 
-// export const clients = [
-//   {
-//     id: "client-1",
-//     logo: airbnb,
-//   },
-//   {
-//     id: "client-2",
-//     logo: binance,
-//   },
-//   {
-//     id: "client-3",
-//     logo: coinbase,
-//   },
-//   {
-//     id: "client-4",
-//     logo: dropbox,
-//   },
-// ];
+export const clients = [
+  {
+    id: "client-1",
+    logo: airbnb,
+  },
+  {
+    id: "client-2",
+    logo: binance,
+  },
+  {
+    id: "client-3",
+    logo: coinbase,
+  },
+  {
+    id: "client-4",
+    logo: dropbox,
+  },
+];
